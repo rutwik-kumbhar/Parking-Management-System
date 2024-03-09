@@ -1,9 +1,9 @@
-# Parking-Management-System (link/to/license)
+# Parking-Management-System
 
 
 
-## Project Presention Video :
-<img src="https://i.ibb.co/K9Z97Dq/project-Logo.png" alt="Alt Text" width="300"/>
+## Project Presention [Video](link/to/documentation):
+
 
 
 ## Description
@@ -11,9 +11,10 @@
 A Parking Management System efficiently organizes and monitors parking spaces, providing users with real-time availability information. It optimizes parking utilization, streamlines entry and exit processes, and enhances overall security through surveillance and automated payment systems.
 
 ## Key Features:
-   - Space Tracking: Real-time monitoring for available parking spots, minimizing search time.
-   - Payment Automation: Integration of mobile apps or kiosks for streamlined payments.
-   - Entry/Exit Automation: Automated gates or plate recognition for smoother traffic flow.
+
+Space Tracking: Real-time monitoring for available parking spots, minimizing search time.
+Payment Automation: Integration of mobile apps or kiosks for streamlined payments.
+Entry/Exit Automation: Automated gates or plate recognition for smoother traffic flow.
 
 
 ## Tech-Stacks:
@@ -69,6 +70,5 @@ To run the application, follow these steps:
 1. We are also planing to implement Payment Gateway for this application.
 2. And also an user friendly user interface.
 
-## Conclusion:
-The Online Plant Nursery Application brings together plant enthusiasts and sellers, offering a convenient and seamless platform to buy and sell plants, seeds, and planters. With user-friendly interfaces for customers and administrators, the application simplifies product management, order processing, and customer interactions, creating a flourishing online community for gardening enthusiasts.
+
     
