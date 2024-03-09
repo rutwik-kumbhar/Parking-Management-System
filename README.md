@@ -17,9 +17,6 @@ Payment Automation: Integration of mobile apps or kiosks for streamlined payment
 Entry/Exit Automation: Automated gates or plate recognition for smoother traffic flow.
 
 
-
-
-
 ## Tech-Stacks:
     - Backend: Java, Spring-Boot, Spring-Data-JPA
     - Database: MYSQL.
