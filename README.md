@@ -23,7 +23,7 @@ Entry/Exit Automation: Automated gates or plate recognition for smoother traffic
     
 
 ## Database
-<img src="https://i.ibb.co/JFcZkH4/ER-Diagram.png" alt="Alt Text" width="700"/>
+<img src="https://github.com/rutwik-kumbhar/Parking-Management-System/blob/main/parking-db.png" alt="Alt Text" width="700"/>
 
 
 
