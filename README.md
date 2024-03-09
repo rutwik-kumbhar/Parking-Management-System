@@ -1,4 +1,4 @@
-# Parking-Management-System
+# Parking-Management-System (link/to/license)
 
 
 
@@ -11,10 +11,9 @@
 A Parking Management System efficiently organizes and monitors parking spaces, providing users with real-time availability information. It optimizes parking utilization, streamlines entry and exit processes, and enhances overall security through surveillance and automated payment systems.
 
 ## Key Features:
-
-Space Tracking: Real-time monitoring for available parking spots, minimizing search time.
-Payment Automation: Integration of mobile apps or kiosks for streamlined payments.
-Entry/Exit Automation: Automated gates or plate recognition for smoother traffic flow.
+   - Space Tracking: Real-time monitoring for available parking spots, minimizing search time.
+   - Payment Automation: Integration of mobile apps or kiosks for streamlined payments.
+   - Entry/Exit Automation: Automated gates or plate recognition for smoother traffic flow.
 
 
 ## Tech-Stacks:
